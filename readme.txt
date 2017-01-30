@@ -4,7 +4,7 @@ and convert it to .csv.
 Requirements:
   bash
   wget
-  lua >= 5.2
+  lua >= 5.3
 
 Usage:
   bash run_me.sh
@@ -12,3 +12,4 @@ Usage:
 Happy [theory]crafting and [data]mining!
 
 2016-06-26
+2017-01-29
